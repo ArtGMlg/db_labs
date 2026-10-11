@@ -1,0 +1,23 @@
+{
+  "pgsql.connections": [
+    {
+      "id": "B6F6CCE3-56BA-4811-AAF8-D85506091EC5",
+      "groupId": "24D305C1-11A2-47A0-BA84-E7D1AAD05464",
+      "authenticationType": "SqlLogin",
+      "connectTimeout": 15,
+      "applicationName": "vscode-pgsql",
+      "clientEncoding": "utf8",
+      "sslmode": "disable",
+      "savePassword": true,
+      "sslRootCertMode": "none",
+      "password": "",
+      "user": "db",
+      "server": "polikek",
+      "database": "polikek",
+      "hostaddr": "192.168.0.15",
+      "profileName": "polikek, polikek (db)",
+      "sshPassword": "",
+      "expiresOn": 0
+    }
+  ]
+}

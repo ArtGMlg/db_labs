@@ -4,7 +4,7 @@ WHERE name_author ~ '^П';
 
 SELECT *
 FROM Books
-WHERE Title_book ~* 'SQL';
+WHERE Title_book ~* 'наука';
 
 SELECT *
 FROM Publishing_house
